@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092708082386",
+    "project_id": "spacemeta-812ab",
+    "storage_bucket": "spacemeta-812ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092708082386:android:08d5e476f9fbf8dcb4030b",
+        "android_client_info": {
+          "package_name": "com.example.spacemeta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUCryxrdGIyaUJEJ9Y64_t9eHSEAMsxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
